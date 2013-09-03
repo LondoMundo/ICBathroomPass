@@ -9,10 +9,15 @@ Feel Free to use these whenever you want, as much as you want
 If You Wish To Contribute
 =========================
 If you wish to contribute, use
+
   git clone https://github.com/LondoMundo/ICBathroomPass.git
+
   git add *
+
   git commit -m "COMMIT SUMMARY"
+
   git push
+
 Or if you dont know how to use git, find someone who does
 
 
